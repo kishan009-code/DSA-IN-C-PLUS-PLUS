@@ -1,2 +1,2 @@
 # DSA-IN-C-PLUS-PLUS
-Important  DSA questions and pattern
+Important  DSA questions and patterns
