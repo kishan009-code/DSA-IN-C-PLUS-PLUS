@@ -12,7 +12,6 @@
 - Check if element exists
 - Count frequency
 
-
-Examples:
-Two Sum 
-Contains Duplicate
+**Examples:**
+- Two Sum
+- Contains Duplicate
