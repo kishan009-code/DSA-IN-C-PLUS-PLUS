@@ -16,3 +16,4 @@
 - Two Sum
 - Contains Duplicate
 - Group Anagrams
+- Longest Consecutive Sequence
